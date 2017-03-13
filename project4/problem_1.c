@@ -1,7 +1,7 @@
 #include <pthread.h>
 #include <stdio.h>
 
-// ADD TODO from instructions of project 4 
+// ADD TODO from instructions of project4 
 
 int main (int argc, char *argv[])
 {
